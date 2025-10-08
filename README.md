@@ -14,6 +14,43 @@
 ✨ Always learning, always coding, always improving.  **
 
 ---
+<h3 align="left">🧠 Languages & Tools:</h3>
+
+<p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/insiders/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_Insiders_1.36_icon.svg" alt="VS Code Insiders" width="40" height="40"/>
+  </a>
+  <a href="https://cursor.sh/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="Cursor IDE" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+  </a>
+  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="Yarn" width="40" height="40"/>
+  </a>
+  <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/P/pnpm-logo-64D5F2E930-seeklogo.com.png" alt="pnpm" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side/HTTP_and_Fetch" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/374118/api.svg" alt="APIs" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
