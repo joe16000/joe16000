@@ -6,12 +6,8 @@
 <h1>👋 Hey! Nice to See You</h1>
 
 
-#  I'm Benziane Younes  
-
---
+#  I'm Benziane Younes 
 <h2>🚀 Frontend Developer 
-
-<br/>
 
 💻 ** passionate about building clean and interactive web applications.  
 ✨ Always learning, always coding, always improving.  **
