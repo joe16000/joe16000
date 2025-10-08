@@ -24,7 +24,7 @@
 ✨ Always learning, always coding, always improving.  **
 
 ---
-<h3 align="left">💻 Languages and Tools:</h3>
+<h3 align="left">💻 Languages:</h3>
 
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -56,6 +56,13 @@
   </a>
 </p>
 
+
+---
+<h3 align="left">💻 Tools I Use :</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,gitlab,vite,npm,yarn&theme=dark" />
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="Cursor" width="48" height="48" style="margin-left:10px;" title="Cursor IDE"/>
+</p>
 
 ---
 
