@@ -1,3 +1,11 @@
+<br />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7F7F7&center=true&width=800&height=100&lines=Welcome+to+my+GitHub" alt="Typing SVG" />
+</a>
+
+---
+ 
+ 
  <div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
@@ -8,7 +16,9 @@
 #  I'm Benziane Younes  
 
 --
-<h2>🚀 Frontend Developer |
+<h2>🚀 Frontend Developer 
+
+<br/>
 
 💻 ** passionate about building clean and interactive web applications.  
 ✨ Always learning, always coding, always improving.  **
@@ -57,6 +67,7 @@
 🤝 Always open to collaborating on **innovative projects** with creative teams.  
 🎯 Currently focused on mastering **modern frontend architectures** and aiming to become a **Full-Stack Developer**.  
 🚀 Driven by curiosity, design precision, and building seamless user experiences.
+
 
 
 ---
