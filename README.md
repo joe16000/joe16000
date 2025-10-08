@@ -1,7 +1,17 @@
-# 👋 Hi, I'm Benziane Younes  
+ <div align="center">
 
-💻 **Frontend Developer** passionate about building clean and interactive web applications.  
-✨ Always learning, always coding, always improving.  
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
+
+<h1>👋 Hey! Nice to See You</h1>
+
+
+#  I'm Benziane Younes  
+
+--
+<h2>🚀 Frontend Developer |
+
+💻 ** passionate about building clean and interactive web applications.  
+✨ Always learning, always coding, always improving.  **
 
 ---
 
