@@ -59,14 +59,15 @@
 
 ---
 
-## 🚀 About Me  
+ 
+## 🚀 About Me
 
-💡 Passionate **Front-End Developer** crafting clean, modern, and responsive web interfaces.  
-🌍 Based in **Algiers, Algeria**.  
-⚙️ I enjoy working with **cutting-edge web technologies** like React, TypeScript, and Tailwind CSS.  
-🤝 Always open to collaborating on **innovative projects** with creative teams.  
-🎯 Currently focused on mastering **modern frontend architectures** and aiming to become a **Full-Stack Developer**.  
-🚀 Driven by curiosity, design precision, and building seamless user experiences.
+- 👋 Hi, I’m **Benziane Younes**, a passionate **Frontend Developer** dedicated to building modern, responsive, and user-friendly web applications.  
+- 💡 I specialize in **HTML**, **CSS**, **JavaScript**, **TypeScript**, and **React JS**, and I love working with tools like **Tailwind CSS**, **Bootstrap**, **Sass**, and **Material UI**.  
+- ⚙️ I enjoy transforming creative ideas into functional digital experiences with clean, efficient, and scalable code.  
+- 🤝 I’m always open to collaborating on innovative projects and learning new technologies to enhance my development skills.  
+- 🎯 My long-term goal is to grow into a **Full-Stack Developer** and contribute to impactful open-source projects.  
+- 🌍 Based in **Algeria**, always curious, motivated, and ready for the next challenge.
 
 
 
@@ -78,6 +79,7 @@
 - **Frontend:** React.js  
 - **Backend:** Node.js (basics)  
 - **Tools:** Git, GitHub, VS Code  
+---
 
 ---
 
@@ -85,6 +87,10 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:younesbenziane17@gmail.com)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/younesbenziane)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/younesbenziane)  
+
+
+
+---
 
 ---
 
