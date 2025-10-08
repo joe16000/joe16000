@@ -7,11 +7,15 @@
 
 ---
 
-## 🚀 About Me
-- 🌍 From Algiers, Algeria  
-- 👨‍💻 Love working with modern web technologies  
-- 🤝 Open to collaboration with creative teams  
-- 🎯 Goal: To grow as a full-stack developer in the future  
+## 🚀 About Me  
+
+💡 Passionate **Front-End Developer** crafting clean, modern, and responsive web interfaces.  
+🌍 Based in **Algiers, Algeria**.  
+⚙️ I enjoy working with **cutting-edge web technologies** like React, TypeScript, and Tailwind CSS.  
+🤝 Always open to collaborating on **innovative projects** with creative teams.  
+🎯 Currently focused on mastering **modern frontend architectures** and aiming to become a **Full-Stack Developer**.  
+🚀 Driven by curiosity, design precision, and building seamless user experiences.
+
 
 ---
 
