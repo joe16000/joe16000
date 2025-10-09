@@ -95,9 +95,14 @@
   </a>
 </p>
 
-<p align="center">
-  <b>Strong communication • Creative problem solving • Team collaboration • Adaptability • Critical thinking • Time management</b>
-</p>
+
+   •  Strong communication
+   • Creative problem solving
+   • Team collaboration
+   • Adaptability
+   • Critical thinking 
+   • Time management</b>
+
 
 ---
 
