@@ -133,17 +133,9 @@
 
 
 ---
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe16000&show_icons=true&locale=en&layout=compact" alt="joe16000" />
-</p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joe16000&show_icons=true&locale=en" alt="joe16000" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=joe16000&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=3600)
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joe16000" alt="joe16000" />
-</p>
 
 
 ---
