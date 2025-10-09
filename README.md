@@ -1,9 +1,16 @@
 
  <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
 
-<h1>👋 Hey! Nice to See You</h1>
+<h1>Hey! Welcome to my GitHub Profile</h1>
+<p>
+  <a href="https://github.com/joe16000"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub logo" />
+  
+</a>
+</p>
+
+
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="center"> 
 
 
 #  I'm Benziane Younes 
