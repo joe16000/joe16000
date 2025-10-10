@@ -64,7 +64,7 @@
 ---
 
  
-## 🚀 About Me
+## 🚀 About Me:
 
 - <img src="https://cdn-icons-png.flaticon.com/512/1029/1029183.png" width="20" align="center"/> Hi, I’m **Benziane Younes**, a passionate **Frontend Developer** dedicated to building modern, responsive, and user-friendly web applications.  
 - <img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" width="20" align="center"/> I specialize in **HTML**, **CSS**, **JavaScript**, **TypeScript**, and **React JS**, and I love working with tools like **Tailwind CSS**, **Bootstrap**, **Sass**, and **Material UI**.  
@@ -78,7 +78,7 @@
 
 ---
 
-<h3 align="center">💼 Soft Skills</h3>
+<h3 align="center">💼 Soft Skills:</h3>
 <p align="center">
   <a href="#" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Communication" width="40" height="40" title="Communication" />
