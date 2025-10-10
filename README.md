@@ -12,10 +12,10 @@
 
 
 #  I'm Benziane Younes 
-<h2>🚀 Frontend Developer 
+<h2>💻 Frontend Developer 
 
-💻 ** passionate about building clean and interactive web applications.  
-✨ Always learning, always coding, always improving.  **
+ ** passionate about building clean and interactive web applications.  
+ Always learning, always coding, always improving.  **
 
 ---
 <h3 align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devdotto.svg" alt="Developer" width="26" height="26" />
