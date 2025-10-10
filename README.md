@@ -4,7 +4,6 @@
 
 <h1>👋Hey! Welcome to my GitHub Profile</h1>
 <p>
-  <a href="https://github.com/joe16000"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub logo" />
   
 </a>
 </p>
