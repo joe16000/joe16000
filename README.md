@@ -18,6 +18,19 @@
  Always learning, always coding, always improving.  **
 
 ---
+## 🚀 About Me:
+
+- <img src="https://cdn-icons-png.flaticon.com/512/1029/1029183.png" width="20" align="center"/> Hi, I’m **Benziane Younes**, a passionate **Frontend Developer** dedicated to building modern, responsive, and user-friendly web applications.  
+- <img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" width="20" align="center"/> I specialize in **HTML**, **CSS**, **JavaScript**, **TypeScript**, and **React JS**, and I love working with tools like **Tailwind CSS**, **Bootstrap**, **Sass**, and **Material UI**.  
+- <img src="https://cdn-icons-png.flaticon.com/512/3524/3524659.png" width="20" align="center"/> I enjoy transforming creative ideas into functional digital experiences with clean, efficient, and scalable code.  
+- <img src="https://cdn-icons-png.flaticon.com/512/456/456212.png" width="20" align="center"/> I’m always open to collaborating on innovative projects and learning new technologies to enhance my development skills.  
+- <img src="https://cdn-icons-png.flaticon.com/512/1077/1077086.png" width="20" align="center"/> My long-term goal is to grow into a **Full-Stack Developer** and contribute to impactful open-source projects.  
+- <img src="https://cdn-icons-png.flaticon.com/512/484/484167.png" width="20" align="center"/> Based in **Algeria**, always curious, motivated, and ready for the next challenge.
+
+---
+
+
+
 <h3 align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devdotto.svg" alt="Developer" width="26" height="26" />
  Languages:</h3>
 
@@ -63,14 +76,6 @@
 ---
 
  
-## 🚀 About Me:
-
-- <img src="https://cdn-icons-png.flaticon.com/512/1029/1029183.png" width="20" align="center"/> Hi, I’m **Benziane Younes**, a passionate **Frontend Developer** dedicated to building modern, responsive, and user-friendly web applications.  
-- <img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" width="20" align="center"/> I specialize in **HTML**, **CSS**, **JavaScript**, **TypeScript**, and **React JS**, and I love working with tools like **Tailwind CSS**, **Bootstrap**, **Sass**, and **Material UI**.  
-- <img src="https://cdn-icons-png.flaticon.com/512/3524/3524659.png" width="20" align="center"/> I enjoy transforming creative ideas into functional digital experiences with clean, efficient, and scalable code.  
-- <img src="https://cdn-icons-png.flaticon.com/512/456/456212.png" width="20" align="center"/> I’m always open to collaborating on innovative projects and learning new technologies to enhance my development skills.  
-- <img src="https://cdn-icons-png.flaticon.com/512/1077/1077086.png" width="20" align="center"/> My long-term goal is to grow into a **Full-Stack Developer** and contribute to impactful open-source projects.  
-- <img src="https://cdn-icons-png.flaticon.com/512/484/484167.png" width="20" align="center"/> Based in **Algeria**, always curious, motivated, and ready for the next challenge.
 
 
 
