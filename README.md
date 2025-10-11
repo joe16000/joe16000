@@ -144,8 +144,18 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=joe16000&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=3600)
+### 📊 GitHub Stats: 
+<div align="center">
+<div>
+  <a href="https://github.com/Jones-6199" style="flex: 1;">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jones-6199&layout=compact&langs_count=7&theme=dracula&hide=python,java,c,cpp" />
+  </a>
+  <a style="flex: 1; text-align: right;">
+     <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="180" height="180" alt="Coding GIF" align="right" />
+  </a>
+</div>
 
+</div>
 
 
 ---
