@@ -75,13 +75,6 @@
 
 ---
 
- 
-
-
-
-
----
-
 <h3 align="center">💼 Soft Skills:</h3>
 <p align="center">
   <a href="#" target="_blank">
@@ -118,11 +111,6 @@
 
 ---
 
----
-
-
-
-
 <h3 align="center">## 📫 Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/benziane-younes-321016385/" target="_blank">
@@ -140,26 +128,5 @@
 </p>
 
 
-
-
----
-
-### 📊 GitHub Stats: 
-<div align="center">
-<div>
-  <a href="https://github.com/Jones-6199" style="flex: 1;">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jones-6199&layout=compact&langs_count=7&theme=dracula&hide=python,java,c,cpp" />
-  </a>
-  <a style="flex: 1; text-align: right;">
-     <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="180" height="180" alt="Coding GIF" align="right" />
-  </a>
-</div>
-
-</div>
-
-
----
-
----
 
 ⭐️ *Thanks for visiting my profile! Don’t forget to check out my projects.*  
